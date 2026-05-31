@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518570497089",
+    "project_id": "storytime-d38f7",
+    "storage_bucket": "storytime-d38f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518570497089:android:907bcf636fe3f2b82322c0",
+        "android_client_info": {
+          "package_name": "com.example.storytime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTB3RqXthODLwSq_QcBe_zzTXAD3ERlS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
