@@ -59,6 +59,10 @@ https://github.com/user-attachments/assets/f3762311-3401-4054-8364-2e2bba3a1f2f
 - FCM: `data/src/.../worker/StoryReminderWorker.kt`
 - Remote Config: `data/src/.../firebase/RemoteConfigDataSource.kt`
 
+<img width="2119" height="1115" alt="изображение" src="https://github.com/user-attachments/assets/389eac54-d40f-4546-a374-1a959fab51a4" />
+<img width="2204" height="1367" alt="изображение" src="https://github.com/user-attachments/assets/9e216c58-b6f6-40a2-8beb-22aa5bcc7e2d" />
+
+
 ### YandexGPT AI (+2б)
 - `data/src/.../remote/YandexGptDataSource.kt`
 - `data/src/.../remote/YandexGptApi.kt`
@@ -66,6 +70,7 @@ https://github.com/user-attachments/assets/f3762311-3401-4054-8364-2e2bba3a1f2f
 ### Crashlytics (+1б)
 - Подключён в `app/build.gradle.kts`
 - Инициализируется автоматически через Firebase
+<img width="2205" height="1365" alt="изображение" src="https://github.com/user-attachments/assets/ba74b8b0-ee3a-42f1-ae0f-693f77fbb068" />
 
 ## Сборка
 - `ruDebug` — разработка (русская версия)
