@@ -1,0 +1,15 @@
+<resources>
+    <string name="home_title">Bedtime Stories</string>
+    <string name="label_child_name">Child\'s name</string>
+    <string name="label_theme">Story theme</string>
+    <string name="btn_generate">Generate story</string>
+    <string name="btn_saved">Saved stories</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_back">Back</string>
+    <string name="story_saved">Saved ✓</string>
+    <string name="story_title_fallback">Story</string>
+    <string name="saved_title">Saved stories</string>
+    <string name="saved_empty">No saved stories yet</string>
+    <string name="swipe_delete">Delete</string>
+    <string name="nav_back_arrow">‹</string>
+</resources>

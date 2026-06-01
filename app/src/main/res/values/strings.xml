@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">StoryTime</string>
+    <!-- app_name задаётся через resValue в productFlavors (ru / en) -->
+    <string name="home_title">Сказки на ночь</string>
+    <string name="label_child_name">Имя ребёнка</string>
+    <string name="label_theme">Тема сказки</string>
+    <string name="btn_generate">Сгенерировать сказку</string>
+    <string name="btn_saved">Сохранённые сказки</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_back">Назад</string>
+    <string name="story_saved">Сохранено ✓</string>
+    <string name="story_title_fallback">Сказка</string>
+    <string name="saved_title">Сохранённые сказки</string>
+    <string name="saved_empty">Пока нет сохранённых сказок</string>
+    <string name="swipe_delete">Удалить</string>
+    <string name="nav_back_arrow">‹</string>
 </resources>
